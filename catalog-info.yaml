@@ -16,5 +16,5 @@ metadata:
 
 spec:
   type: service
-  owner: Platform-Engineering-Services/terraform-code-managers
+  owner: platform-engineering-team
   lifecycle: production
